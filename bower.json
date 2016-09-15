@@ -1,5 +1,6 @@
 {
   "name": "moment-locale-fr",
+  "version": "1.0.0",
   "description": "Modified french locale for Moment.js",
   "main": "fr.js",
   "authors": [
